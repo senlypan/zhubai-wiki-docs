@@ -1,6 +1,6 @@
 # 竹白百科小册
 
-![icon](../_media/logo192.png)
+![icon](http://docs.zhubai.wiki/_media/logo192.png)
 
 > 竹白百科，专注优质创作者与内容
 
