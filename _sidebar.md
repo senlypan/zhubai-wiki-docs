@@ -15,7 +15,7 @@
 * 四、产品规划
 
   * [上线功能](/zh-cn/04-01-product-online.md)
-  * [草稿想法](/zh-cn/04-02-idea-uncheck.md)
+  * [点子碎片](/zh-cn/04-02-idea-uncheck.md)
 
 * 五、架构方案
 
