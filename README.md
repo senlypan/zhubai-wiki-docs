@@ -16,7 +16,7 @@
 
 # 作者
 
-潘深练，网名大晚，个人网站：http://www.panshenlian.com ，微信公众号：潘大晚。
+潘深练，个人网站：http://www.panshenlian.com ，微信公众号：第一次当爸爸吖。
 
 ***
 
